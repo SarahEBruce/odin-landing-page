@@ -1,0 +1,9 @@
+Landing Page Project
+
+Photo credits:
+Healthy lifestyle Photo by <a href="https://unsplash.com/@jsnbrsc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Briscoe</a> on <a href="https://unsplash.com/photos/woman-smiling-while-cooking-GrdJp16CPk8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
+Healthy food photo by <a href="https://unsplash.com/@brookelark?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brooke Lark</a> on <a href="https://unsplash.com/photos/poached-egg-with-vegetables-and-tomatoes-on-blue-plate-jUPOXXRNdcA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Exercise photo by <a href="https://unsplash.com/@rachmoorephoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rachel Moore</a> on <a href="https://unsplash.com/photos/a-woman-holding-a-wooden-pole-zfPEja1D0YA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Meditation Photo by <a href="https://unsplash.com/@danielmingookkim?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Mingook Kim</a> on <a href="https://unsplash.com/photos/person-wearing-knit-cap-facing-mountain-UXR--t8CZ1U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Pilates Photo by <a href="https://unsplash.com/@brucemars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bruce mars</a> on <a href="https://unsplash.com/photos/group-of-women-doing-yoga-gJtDg6WfMlQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
