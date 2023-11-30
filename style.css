@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+}
+
+header, .hero, footer {
+    background-color: #1f2937;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+}
+
+.logo, .nav {
+    display: flex;
+    align-items: center;
+}
+
+.logo, ul {
+    gap: 40px;
+}
+
+ul {
+    display: flex;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+li {
+    color:#e5e7eb;
+    list-style-type: none;
+    font-size: 18px;
+}
+
+#MP {
+    height: 50px;
+    width: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
