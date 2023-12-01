@@ -56,8 +56,8 @@ a, .intro p {
     font-size: 18px;
 }
 
-.hero, .info-section, .quote {
-    padding: 50px 100px;
+.hero, .info-section, .quote, .cta {
+    padding: 50px 150px;
 }
 
 .hero {
@@ -87,8 +87,7 @@ button {
     border-radius: 10px;
 }
 
-.info-section {
-    padding: 50px 100px;
+.info-section, .cta {
     background-color: white;
 }
 
@@ -144,4 +143,39 @@ button {
     color: black;
     text-align: right;
     margin: 0 100px;
+}
+
+.cta-box {
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 30px 75px;
+    justify-content: space-between;
+    gap: 60px;
+    border-radius: 5px;
+    margin: 50px 0;
+    align-items: center;
+}
+
+h4, .cta-box p {
+    margin: 0;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.cta-box p {
+    font-size: 18px;
+    color:#f9faf8;
+    font-weight: 100;
+}
+
+.cta-box button {
+    text-wrap: nowrap;
+    font-size: 20px;
+    height: 50px;
+    border: 2px white solid;
 }
