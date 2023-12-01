@@ -1,8 +1,8 @@
 body {
     font-family: sans-serif;
-    background-color: white;
     height: 100vh;
-    width: 100%;
+    width: 75%;
+    box-sizing: border-box;
 }
 
 header, .hero, footer {
@@ -11,8 +11,9 @@ header, .hero, footer {
 
 header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     height: 150px;
+    padding: 0 100px;
 }
 
 .logo, .nav {
@@ -47,8 +48,36 @@ li {
     border-radius: 5px;
 }
 
-a {
+a, .intro p {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    align-items: center;
+    gap: 50px;
+}
+
+.hero h1 {
+    font-weight:900;
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.hero-image {
+    height: 200px;
+    width: auto;
+    border-radius: 10px;
+}
+
+button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
 }
