@@ -57,7 +57,7 @@ a, .intro p {
 }
 
 .hero, .info-section, .quote, .cta, .footer {
-    padding: 50px 150px;
+    padding: 100px 150px;
 }
 
 .hero {
@@ -71,6 +71,10 @@ a, .intro p {
     font-weight:900;
     color: #f9faf8;
     font-size: 48px;
+}
+
+.hero p {
+    margin-bottom: 32px;
 }
 
 .hero-image {
